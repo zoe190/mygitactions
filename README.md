@@ -1,2 +1,2 @@
 # mygitactions
-hello world
+# mygitactions
